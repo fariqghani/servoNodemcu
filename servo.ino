@@ -10,9 +10,9 @@ Servo servo2;
 Servo servo3;
 Servo servo4;
 
-char auth[] = "bRvGDtQxE_tFQxowb_-NAvnlcYNfZwi2";
-char ssid[] = "lemongrasstech@unifi";
-char pass[] = "lGt12345";
+char auth[] = "token";
+char ssid[] = "wifi ssid";
+char pass[] = "wifi pass";
 
 void setup()
 {
